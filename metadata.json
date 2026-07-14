@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Win Win Wireless",
+  "description": "Premium iPhone trading in Dubai. Brand brand new and demo iPhones, wholesale prices, UAE and India delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
