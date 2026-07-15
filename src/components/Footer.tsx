@@ -38,7 +38,7 @@ export default function Footer({ activeTab, setActiveTab, darkMode }: FooterProp
             </button>
 
             <p className="text-xs leading-relaxed max-w-sm">
-              Established inside the gold trading hub of Deira, Dubai, Win Win Wireless is a trusted provider of certified brand new and pristine demo iPhones. Sourcing genuine technology at scale for resellers and consumers since 2022.
+              Established inside the gold trading hub of Deira, Dubai, Win Win Wireless is a trusted provider of certified brand new and pristine demo iPhones. Sourcing genuine technology at scale for resellers and consumers since 2023.
             </p>
 
             {/* Micro social icons */}

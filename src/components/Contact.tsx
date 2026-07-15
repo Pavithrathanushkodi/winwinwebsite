@@ -106,7 +106,7 @@ export default function Contact({ darkMode }: ContactProps) {
 
             {/* Email card */}
             <a 
-              href="mailto:winwinwireless20w3@gmail.com"
+              href="mailto:winwinwireless2023@gmail.com"
               className={`p-5 rounded-2xl border transition-all duration-200 block ${
                 darkMode ? 'bg-zinc-950/40 border-zinc-850 hover:border-brand-gold/30' : 'bg-zinc-50 border-zinc-150 hover:bg-zinc-100'
               }`}
@@ -116,7 +116,7 @@ export default function Contact({ darkMode }: ContactProps) {
               </div>
               <h4 className="text-xs font-mono font-bold uppercase tracking-wider text-zinc-500">Corporate Email</h4>
               <p className={`text-sm font-bold mt-1.5 leading-snug ${darkMode ? 'text-white' : 'text-zinc-950'}`}>
-                winwinwireless20w3@gmail.com
+                winwinwireless2023@gmail.com
               </p>
             </a>
 

@@ -659,7 +659,7 @@ export const NEWS_UPDATES_DATA: NewsUpdate[] = [
     title: 'New iPhone 17 Series Available',
     tag: 'NEW ARRIVAL',
     description: 'We are first to introduce the highly awaited iPhone 17 Pro and 17 Pro Max models in Dubai. Ready stock in multiple colors.',
-    date: 'Just Now',
+   
     badge: 'Trending'
   },
   {
@@ -667,7 +667,7 @@ export const NEWS_UPDATES_DATA: NewsUpdate[] = [
     title: 'India Delivery Fully Active',
     tag: 'GLOBAL LOGISTICS',
     description: 'Safe, fully insured door-to-door shipping of premium Apple iPhones directly from Dubai to all major cities in India.',
-    date: '2 hours ago',
+    
     badge: 'Popular'
   },
   {
@@ -675,14 +675,13 @@ export const NEWS_UPDATES_DATA: NewsUpdate[] = [
     title: 'Wholesale Bulk Orders Open',
     tag: 'B2B WHOLESALE',
     description: 'Custom quotations and inventory access for retailers, resellers and volume importers. Best margins guaranteed.',
-    date: 'Yesterday'
   },
   {
     id: 'upd-4',
     title: 'Demo Phones with Full Warranty',
     tag: 'VERIFIED DEMO',
     description: 'Pristine, tested 100% genuine demo devices at up to 40% discount with a physical shop warranty.',
-    date: '3 days ago'
+    
   }
 ];
 
@@ -693,7 +692,7 @@ export const CUSTOMER_REVIEWS_DATA: CustomerReview[] = [
     location: 'Dubai, UAE',
     rating: 5,
     comment: 'Exceptional service! Bought 5 demo iPhones for my corporate team. The quality is practically brand new and pricing is the best in Deira Gold Souk area.',
-    date: '10 days ago',
+   
     verified: true
   },
   {
@@ -702,7 +701,7 @@ export const CUSTOMER_REVIEWS_DATA: CustomerReview[] = [
     location: 'Mumbai, India',
     rating: 5,
     comment: 'I was skeptical about delivery to India, but Win Win Wireless delivered my custom-packaged iPhone 16 Pro Max safely within 4 days. Absolutely genuine!',
-    date: '2 weeks ago',
+  
     verified: true
   },
   {
@@ -711,7 +710,7 @@ export const CUSTOMER_REVIEWS_DATA: CustomerReview[] = [
     location: 'Abu Dhabi, UAE',
     rating: 5,
     comment: 'Transparent trading, beautiful clean shop in Deira Mall, and amazing WhatsApp customer support. They answer in minutes and give the best live market rates.',
-    date: '1 month ago',
+   
     verified: true
   },
   {
@@ -720,7 +719,7 @@ export const CUSTOMER_REVIEWS_DATA: CustomerReview[] = [
     location: 'Delhi, India',
     rating: 5,
     comment: 'Great wholesale price for iPhone 15 Pro stock. Best wholesale partner in Dubai. Visited their showroom in Deira Mall, highly professional team.',
-    date: '1 month ago',
+   
     verified: true
   }
 ];
